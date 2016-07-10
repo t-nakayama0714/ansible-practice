@@ -4,5 +4,5 @@ nginx_log_dir: "/var/log/nginx"
 serverspec_base_dir: "/usr/local/serverspec"
 serverspec_exec_user_name: "jenkins"
 serverspec_exec_user_group: "jenkins"
-elasticsearch_host: "kibana"
+elasticsearch_host: "kibana.devops-book.local"
 elasticsearch_port: 9200
